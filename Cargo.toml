@@ -1,0 +1,8 @@
+[workspace]
+members = [
+  "mathbuddy-lib",
+  "mathbuddy",
+]
+
+[profile.release]
+lto = true
